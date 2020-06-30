@@ -52,13 +52,14 @@ section{
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 55%;
+    height: 60%;
     background-color: white;
 }
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    height: 500px;
 }
 #full-stack{
     border-left: 7px solid;
@@ -72,5 +73,5 @@ section{
 }
 footer p{
     text-align: center;
-    font-size: 15px;
+    font-size: 13px;
 }
